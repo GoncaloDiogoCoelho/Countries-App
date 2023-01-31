@@ -1,0 +1,13 @@
+.title {
+    color: brown;
+    margin: 0;
+    padding: 30px 0;
+    top: -100px
+}
+
+.cardList {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 30vw 30vw 30vw;
+    grid-gap: 10px;
+}

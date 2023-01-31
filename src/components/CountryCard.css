@@ -1,0 +1,18 @@
+.country {
+    border: 1px solid white;
+    height: 300px;
+}
+
+.country-flag {
+    z-index: 1;
+}
+
+.displayCards {
+    align-self: center;
+    padding: 2vw;
+    border: 0 auto;
+}
+
+.country img {
+    width: 100%;
+}

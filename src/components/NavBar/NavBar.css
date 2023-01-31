@@ -1,0 +1,13 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    justify-content: space-between;
+}
+
+.nav-right-side, .nav-left-side {
+    padding:30px;
+}
